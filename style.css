@@ -1,6 +1,10 @@
 body{
-    background-image: url("paper.gif");
-    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/74/05/cf/7405cf4d9352bd8de058c1cb46c3ea96.gif");
+    background-size: 500px;
+    background-position: center center;
+    background-repeat: repeat;
 }
 img{border-radius: 20%;}
 text{font: 5000;}
+p{ font-size: 30px;
+ font-style: italic;}
